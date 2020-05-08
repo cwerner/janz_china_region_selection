@@ -1,0 +1,5 @@
+numpy
+proplot
+xarray
+pandas
+matplotlib
