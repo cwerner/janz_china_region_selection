@@ -2,4 +2,6 @@ numpy
 proplot
 xarray
 pandas
+geopandas
+requests
 matplotlib
